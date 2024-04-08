@@ -6,3 +6,4 @@ RENCANA NONTON ONE PIECE
 - Buat logbook
 - Luffy
   * gomu nomi
+  * fusen
